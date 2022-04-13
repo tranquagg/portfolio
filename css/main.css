@@ -38,7 +38,7 @@ button{
 }
 
 button:hover{
-    background-color: var(--green);
+    background-color: var(--green-l);
     transition: var(--smooth);
 }
 
@@ -115,7 +115,7 @@ header{
     transition: var(--smooth);
 }
 .navbar__link a:hover{
-    color: var(--green);
+    color: var(--green-l);
     transition: var(--smooth);
 }
 
